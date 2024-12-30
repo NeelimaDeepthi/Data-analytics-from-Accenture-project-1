@@ -1,7 +1,8 @@
 # Data-analytics-from-Accenture-project-1
 Accenture North America Data Analytics and Visualization Job Simulation on Forage - December 2024
 Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
-[accenture certicate_page-0001](https://github.com/user-attachments/assets/bbb9d4ae-48a9-4c19-a74f-6f85510c7ebd)
+![accenture certicate_page-0001](https://github.com/user-attachments/assets/657b35f7-7f69-43ac-bd70-0f01f3acc7a1)
+
 ----------------process to complete the project----------------------
 
 -----1st step is to clean the data---------- They shared 3 data sets to complete this project, and we need to transform and clean those datasets. I have shared the cleaned data sets content1, Reactions1, and ReactionTypes1 in the code section.
